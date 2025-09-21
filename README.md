@@ -1,1 +1,1 @@
-[My live priver is : [project]](https://rupalboghani4.github.io/Pet-Store/)
+[My live preview is : [project]](https://rupalboghani4.github.io/Pet-Store/)
