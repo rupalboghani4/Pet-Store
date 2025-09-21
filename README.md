@@ -1,1 +1,1 @@
-My live priver is : [project]{https://github.com/rupalboghani4/Pet-Store/settings/pages}
+My live priver is : [project]{https://rupalboghani4.github.io/Pet-Store/}
